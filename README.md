@@ -27,8 +27,8 @@ A simple, responsive calculator app built with Flutter. This app supports basic 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/calculator.git
-    cd calculator
+    git clone https://github.com/sthibo-tee/Flutter_basic_calculator.git
+    cd Flutter_basic_calculator
     ```
 
 2. Install dependencies:
