@@ -1,0 +1,12 @@
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/calculator
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/icudtl.dat
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/lib/libflutter_linux_gtk.so
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/version.json
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/AssetManifest.json
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/AssetManifest.bin
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/NOTICES.Z
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/data/flutter_assets/FontManifest.json
+/home/thabo/development/projects/calculator/build/linux/x64/profile/bundle/lib/libapp.so
