@@ -1,8 +1,8 @@
-# Install script for directory: /home/thabo/development/projects/calculator/linux/flutter
+# Install script for directory: /home/thabo/Flutter_basic_calculator/linux/flutter
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/thabo/development/projects/calculator/build/linux/x64/debug/bundle")
+  set(CMAKE_INSTALL_PREFIX "/home/thabo/Flutter_basic_calculator/build/linux/x64/debug/bundle")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -35,10 +35,5 @@ endif()
 # Is this installation the result of a crosscompile?
 if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
-endif()
-
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/snap/flutter/current/usr/bin/objdump")
 endif()
 
