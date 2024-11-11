@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+038dc89a7297c6fc0289de55cd0e7a6c /home/thabo/Flutter_basic_calculator/linux/flutter/ephemeral/libflutter_linux_gtk.so
+f736b81a5e02c4b65541084fc13c7dfb flutter/CMakeFiles/flutter_assemble

@@ -1,0 +1,14 @@
+/home/thabo/Flutter_basic_calculator/build/CMakeFiles/calculator.dir
+/home/thabo/Flutter_basic_calculator/build/CMakeFiles/edit_cache.dir
+/home/thabo/Flutter_basic_calculator/build/CMakeFiles/rebuild_cache.dir
+/home/thabo/Flutter_basic_calculator/build/CMakeFiles/list_install_components.dir
+/home/thabo/Flutter_basic_calculator/build/CMakeFiles/install.dir
+/home/thabo/Flutter_basic_calculator/build/CMakeFiles/install/local.dir
+/home/thabo/Flutter_basic_calculator/build/CMakeFiles/install/strip.dir
+/home/thabo/Flutter_basic_calculator/build/flutter/CMakeFiles/flutter_assemble.dir
+/home/thabo/Flutter_basic_calculator/build/flutter/CMakeFiles/edit_cache.dir
+/home/thabo/Flutter_basic_calculator/build/flutter/CMakeFiles/rebuild_cache.dir
+/home/thabo/Flutter_basic_calculator/build/flutter/CMakeFiles/list_install_components.dir
+/home/thabo/Flutter_basic_calculator/build/flutter/CMakeFiles/install.dir
+/home/thabo/Flutter_basic_calculator/build/flutter/CMakeFiles/install/local.dir
+/home/thabo/Flutter_basic_calculator/build/flutter/CMakeFiles/install/strip.dir
